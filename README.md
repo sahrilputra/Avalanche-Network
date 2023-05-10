@@ -1,9 +1,12 @@
-# Avalanche Quest 8 Project
-
+# Avalanche Network Test
 This project demonstrates a basic Hardhat use case.
-Deploying an ERC721 Smart contract using metamask wallet to Avax Fuji Testnet
+# Branch 
+## ERC721 
+- Create an ERC721 token smart contract
+- Deploy an ERC721 token smart contract to the Avalanche Fuji TestNet using Hardhat
 
-Install the necesary packages by running:
+# Using
+go to another branch of your choice and Clone, after that use :
 
 ```shell
 npm install
